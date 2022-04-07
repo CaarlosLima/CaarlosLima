@@ -1,4 +1,4 @@
-## Olá, me chamo SeuNomeAqui ! 
+## Olá, me chamo Carlos Eduardo de Lima ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Ferramentas e Tecnologias
