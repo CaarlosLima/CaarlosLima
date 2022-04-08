@@ -2,6 +2,7 @@
 
 ### Sobre mim:
 Olá mundo!!
+</br>
 Me chamo Carlos, tenho 19. Sou programador web, atualmente desenvolvendo com JavaScript, HTML5 e CSS3. No momento estou estudando ReactJS com Typescript.
 Tenho como principal objetivo no mundo da programação me tornar um Desenvolvedor Full Stack. Atualmente estou focado no Front-End, mas aberto a mudanças e novas aventuras em qualquer linguagem.
 
