@@ -5,9 +5,17 @@ Sou programador web, atualmente desenvolvendo com JavaScript, HTML5 e CSS3. No m
 Tenho como principal objetivo no mundo da programação me tornar um Desenvolvedor Full Stack. Atualmente estou focado no Front-End, mas aberto a mudanças e novas aventuras em qualquer linguagem.
 
 ⇝ Algumas características que me definem:
- • Me considero uma pessoa bem humorada e animada;
- • Gosto de sempre ta estudando aprendendo coisas novas e melhorando as minha habilidades;
- • Sou uma pessoa paciente, e apesar de ser reservado, gosto de companhia e de socializar;
+<ul>
+  <li>Me considero uma pessoa bem humorada e animada;</li>
+  <li>
+    Gosto de sempre ta estudando aprendendo coisas novas e melhorando as minha
+    habilidades;
+  </li>
+  <li>
+    Sou uma pessoa paciente, e apesar de ser reservado, gosto de companhia e de
+    socializar;
+  </li>
+</ul>
 
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
