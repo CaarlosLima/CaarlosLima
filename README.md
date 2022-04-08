@@ -1,9 +1,7 @@
 # Olá, me chamo Carlos Eduardo de Lima!
 
 ### Sobre mim:
-Olá mundo!!
-</br>
-Me chamo Carlos, tenho 19. Sou programador web, atualmente desenvolvendo com JavaScript, HTML5 e CSS3. No momento estou estudando ReactJS com Typescript.
+Sou programador web, atualmente desenvolvendo com JavaScript, HTML5 e CSS3. No momento estou estudando ReactJS com Typescript.
 Tenho como principal objetivo no mundo da programação me tornar um Desenvolvedor Full Stack. Atualmente estou focado no Front-End, mas aberto a mudanças e novas aventuras em qualquer linguagem.
 
 ⇝ Algumas características que me definem:
@@ -29,17 +27,3 @@ Tenho como principal objetivo no mundo da programação me tornar um Desenvolved
 <div>
 <a href="https://github.com/CaarlosLima">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaarlosLima&layout=compact&langs_count=7&theme=dracula"/>
-<!--
-**CaarlosLima/CaarlosLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
