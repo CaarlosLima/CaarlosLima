@@ -32,6 +32,5 @@ Tenho como principal objetivo no mundo da programação me tornar um Desenvolved
 
 </br>
 
-<div>
 <a href="https://github.com/CaarlosLima">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaarlosLima&layout=compact&langs_count=7&theme=dracula"/>
