@@ -1,7 +1,7 @@
 # Olá, me chamo Carlos Eduardo de Lima!
 
 ### Sobre mim:
-Sou programador web, atualmente desenvolvendo com JavaScript, HTML5 e CSS3. No momento estou estudando ReactJS com Typescript.
+Sou programador web, atualmente desenvolvendo com JavaScript, HTML5 e CSS3. No momento estou estudando React com Typescript.
 Tenho como principal objetivo no mundo da programação me tornar um Desenvolvedor Full Stack. Atualmente estou focado no Front-End, mas aberto a mudanças e novas aventuras em qualquer linguagem.
 
 ⇝ Algumas características que me definem:
