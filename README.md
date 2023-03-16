@@ -1,11 +1,9 @@
-# Olá, me chamo Carlos Eduardo de Lima!
+## Olá, me chamo Carlos Eduardo de Lima!
 
 ### Sobre mim:
-Sou Desenvolvedor Front-End Jr, com o objetivo de me tornar FullStack, atualmente trabalho no desenvolvimento de um Sistema de Gestão Empresarial em Java. Iniciei minha jornada na programação estudando JavaScript para Web. Atualmente meu foco nos estudos estão em Java e Spring Boot, em paralelo com frameworks Front-End, como React e Angular.
+Sou Desenvolvedor Front-End, atualmente trabalho no desenvolvimento de um projeto que tem por objetivo migrar para a web um sistema desktop, utilizando ReactJS, Ant Design, Sass e outras ferramentas.
 
-Também possuo experiência com TypeScript, Git, SQL, HTML5, CSS3.
-
-Sou uma pessoa muito curiosa, que gosta de aprender e está sempre atrás de se manter atualizado..
+Sou muito curiosa, gosto de aprender e estou sempre atrás de se manter atualizado.
 
 ⇝ Algumas características que me definem:
 <ul>
@@ -20,12 +18,15 @@ Sou uma pessoa muito curiosa, que gosta de aprender e está sempre atrás de se 
   </li>
 </ul>
 
-### Ferramentas e Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+## 
+### Tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
 
+##
 ### Estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
+##
 ### Contatos
 <div>
 <a href = "mailto:caarlos821@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
